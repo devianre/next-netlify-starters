@@ -7,13 +7,13 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://ploon24.link" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Ploon24.link <code>pages/index.js</code>
         </p>
       </main>
 
